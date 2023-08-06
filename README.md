@@ -27,11 +27,11 @@ I believe in continuous learning, and I'm currently exploring:
 
 ### 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=setmawhtay&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/setmawhtay)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=capital-setmawhtay&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/capital-setmawhtay)
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setmawhtay&layout=compact&theme=radical)](https://github.com/setmawhtay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capital-setmawhtay&layout=compact&theme=radical)](https://github.com/setmawhtay)
 
 ### 🤝 Let's Connect
 
